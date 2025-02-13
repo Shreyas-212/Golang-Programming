@@ -1,0 +1,4 @@
+grossProfit:197000.0
+netProfit:196997.0
+profit:191090.0
+ratio:1.0
